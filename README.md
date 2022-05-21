@@ -1,6 +1,3 @@
-
-# EXAMPLE
-
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I`m+Ta;I`m+a+Fullstack+Developer)](https://git.io/typing-svg)
@@ -71,8 +68,8 @@ OS, Tools and IDEs:  👇
  
 💻 GitHub Profile Stats
  
- [<img src="https://github-readme-stats.vercel.app/api?username=tanawat011" width="430" height="170">](https://github.com/tanawat011/tanawat011)
- [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanawat011&layout=compact" width="400" height="170">](https://github.com/tanawat011/tanawat011)
+ [<img src="https://github-readme-stats.vercel.app/api?username=tanawat011" width="420" height="140">](https://github.com/tanawat011/tanawat011)
+ [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanawat011&layout=compact" width="390" height="140">](https://github.com/tanawat011/tanawat011)
 
 </div>
 
