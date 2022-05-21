@@ -71,8 +71,8 @@ OS, Tools and IDEs:  👇
  
 💻 GitHub Profile Stats
  
- [<img src="https://github-readme-stats.vercel.app/api?username=tanawat011" width="480" height="200">](https://github.com/tanawat011/tanawat011)
- [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanawat011&layout=compact" width="400" height="200">](https://github.com/tanawat011/tanawat011)
+ [<img src="https://github-readme-stats.vercel.app/api?username=tanawat011" width="430" height="170">](https://github.com/tanawat011/tanawat011)
+ [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanawat011&layout=compact" width="400" height="170">](https://github.com/tanawat011/tanawat011)
 
 </div>
 
