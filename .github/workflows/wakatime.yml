@@ -18,11 +18,3 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakapi.dev/api
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_PROJECTS: "False"
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: tanawat011/tanawat011@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
