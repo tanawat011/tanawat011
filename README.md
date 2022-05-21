@@ -2,7 +2,7 @@
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I`m+Ta,Tanawat;I`m+a+Fullstack+Developer)](https://git.io/typing-svg)
  
- ![image](https://user-images.githubusercontent.com/10110939/169654604-cc8a1862-2cff-402a-b73b-7d914ef310ce.png)
+ ![image](https://user-images.githubusercontent.com/10110939/169654643-44d62b73-f51a-458f-b49d-ec8f8865b370.png)
  
 </div>
 
