@@ -1,7 +1,11 @@
 
 # EXAMPLE
 
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Ta" title="👋 Hi there! I'm Ta"/>
+<div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I`m+Ta;I`m+a+Fullstack+Developer)](https://git.io/typing-svg)
+ 
+</div>
 
 <div align="left">
 
@@ -68,4 +72,5 @@ OS, Tools and IDEs:  👇
 </details>
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
