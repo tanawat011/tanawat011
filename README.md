@@ -80,6 +80,7 @@ OS, Tools and IDEs:  👇
  [<img src="./github-metrics-classic.svg" width="400">](https://github.com/tanawat011/tanawat011)
  [<img src="./github-metrics-habits.svg" width="400">](https://github.com/tanawat011/tanawat011)
  [<img src="./github-metrics-wakatime.svg" width="400">](https://github.com/tanawat011/tanawat011)
+ [<img src="./github-metrics-commit-calendar.svg" width="400">](https://github.com/tanawat011/tanawat011)
  
 </div>
 
