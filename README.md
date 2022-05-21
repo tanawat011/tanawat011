@@ -82,6 +82,7 @@ OS, Tools and IDEs:  👇
  
  ![Metrics](./github-metrics-classic.svg)
  ![Metrics](./github-metrics-habits.svg)
+ ![Metrics](./github-metrics-wakatime.svg)
  
 </div>
 
