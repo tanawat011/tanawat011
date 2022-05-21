@@ -19,3 +19,4 @@ jobs:
           SHOW_TITLE: true
           REPOSITORY: tanawat011/tanawat011
           TIME_RANGE: last_30_days
+          SHOW_LANGUAGE: true
