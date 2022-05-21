@@ -11,10 +11,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: tanawat011/tanawat011@master
+      - uses: tanawat011/tanawat011@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: https://wakapi.dev/api
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TITLE: true
-          SHOW_LANGUAGE: true
