@@ -77,9 +77,9 @@ OS, Tools and IDEs:  👇
  
 ⚡ Recent GitHub Activity
  
- ![Metrics](./github-metrics-classic.svg)
- ![Metrics](./github-metrics-habits.svg)
- ![Metrics](./github-metrics-wakatime.svg)
+ [<img src="./github-metrics-classic.svg" width="400">](https://github.com/tanawat011/tanawat011)
+ [<img src="./github-metrics-habits.svg" width="400">](https://github.com/tanawat011/tanawat011)
+ [<img src="./github-metrics-wakatime.svg" width="400">](https://github.com/tanawat011/tanawat011)
  
 </div>
 
