@@ -5,6 +5,7 @@ on:
   schedule:
     # Runs at every 12AM UTC
     - cron: "* * * * *"
+  push: {branches: ["main"]}
 
 jobs:
   update-readme:
