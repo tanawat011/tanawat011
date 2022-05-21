@@ -38,3 +38,12 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+
+      # Run create metricts commit calendar
+      - uses: tanawat011/metrics@master
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: github-metrics-commit-calendar.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
