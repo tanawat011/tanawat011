@@ -13,7 +13,17 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
 
-      # Run create metricts
+      # Run create metricts classic
       - uses: tanawat011/metrics@master
         with:
           token: ${{ secrets.GH_TOKEN }}
+          filename: github-metrics-classic.svg
+
+      # Run create metricts habits
+      - uses: tanawat011/metrics@master
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: github-metrics-habits.svg
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
