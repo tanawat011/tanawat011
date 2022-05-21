@@ -1,0 +1,19 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      # Run create metricts
+      - uses: tanawat011/metrics@master
+        with:
+          token: ${{ secrets.GH_TOKEN }}
