@@ -68,19 +68,19 @@ OS, Tools and IDEs:  👇
 ## 📊 Github stats
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+ <summary>💻 GitHub Profile Stats</summary>
  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanawat011)](https://github.com/tanawat011/tanawat011)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanawat011&layout=compact)](https://github.com/tanawat011/tanawat011)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanawat011)](https://github.com/tanawat011/tanawat011)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanawat011&layout=compact)](https://github.com/tanawat011/tanawat011)
 
 </details>
 
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rzashakeri's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=rzashakeri&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
+ <summary>⚡ Recent GitHub Activity</summary>
+ 
+ ![Metrics](/github-metrics.svg)
+
 </details>
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
