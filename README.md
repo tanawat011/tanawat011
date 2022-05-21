@@ -1,6 +1,8 @@
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I`m+Ta,Tanawat;I`m+a+Fullstack+Developer)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I`m+Ta,Tanawat;I`m+a+Fullstack+Developer)](https://git.io/typing-svg)
+ 
+ ![image](https://user-images.githubusercontent.com/10110939/169654604-cc8a1862-2cff-402a-b73b-7d914ef310ce.png)
  
 </div>
 
@@ -19,7 +21,7 @@ Hello 🖐️ friends, welcome to my github
 I am satisfied and I tried most fields of programming such as mobile application development, web design and development, etc., and finally I was able to find my interest, and that was web design and development and security. It has been almost 5 years. I am coding and now I am a fullstack developer
 &nbsp;
 
-In addition to my personal website, you can also follow my main page called [Tanawat](https://www.instagram.com/ta.tanawat.pin/) on Instagram.
+In addition to my personal website, you can also follow my main page called [Tanawat](https://www.instagram.com/ta.tanawat.pin/) on Instagram. And this is my [Portfolio](https://tanawat.web.app/) website
 </p>
 
 
