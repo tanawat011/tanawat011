@@ -19,7 +19,7 @@
 </div>  
 <p align="justify"> 
 Hello 🖐️ friends, welcome to my github
-I am satisfied and I tried most fields of programming such as game development, mobile application development, web design and development, etc., and finally I was able to find my interest, and that was web design and development and security . It has been almost 10 years. I am coding and now I am a computer engineering student
+I am satisfied and I tried most fields of programming such as mobile application development, web design and development, etc., and finally I was able to find my interest, and that was web design and development and security. It has been almost 5 years. I am coding and now I am a fullstack developer
 &nbsp;
 
 In addition to my personal page, you can also follow my main page called <a href="https://www.instagram.com/barnamenevisiinsta/">barnamenevisiinsta</a> on Instagram.
@@ -67,20 +67,22 @@ OS, Tools and IDEs:  👇
 &nbsp;
 ## 📊 Github stats
 
-<details> 
- <summary>💻 GitHub Profile Stats</summary>
+<div align="">
+ 
+💻 GitHub Profile Stats
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanawat011)](https://github.com/tanawat011/tanawat011)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanawat011&layout=compact)](https://github.com/tanawat011/tanawat011)
 
-</details>
+</div>
 
-<details>
- <summary>⚡ Recent GitHub Activity</summary>
+<div align="">
+ 
+⚡ Recent GitHub Activity
  
  ![Metrics](./github-metrics.svg)
-
-</details>
+ 
+</div>
 
 <!--START_SECTION:waka-->
 
