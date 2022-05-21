@@ -12,7 +12,7 @@
  [![Facebook](https://img.shields.io/badge/Tanawat-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://github.com/tanawat011](https://www.facebook.com/tanawat.pin))
  [![Instagram](https://img.shields.io/badge/Tanawat-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://github.com/tanawat011](https://www.instagram.com/ta.tanawat.pin/))
  [![LinkedIn](https://img.shields.io/badge/Tanawat-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/tanawat011](https://www.linkedin.com/in/tanawat-pinthongpan-683a84167/))
- [![Gmail](https://img.shields.io/badge/Tanawat-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://tanawat.works@gmail.com)
+ [![Gmail](https://img.shields.io/badge/Tanawat-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanawat.works@gmail.com)
  [![GitHub](https://img.shields.io/badge/Tanawat-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanawat011)
  ![](https://komarev.com/ghpvc/?username=tanawat011&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
  
