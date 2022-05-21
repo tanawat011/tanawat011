@@ -17,6 +17,4 @@ jobs:
           API_BASE_URL: https://wakapi.dev/api
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
-          REPOSITORY: tanawat011/tanawat011
-          TIME_RANGE: last_30_days
           SHOW_LANGUAGE: true
