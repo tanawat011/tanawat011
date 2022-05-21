@@ -4,7 +4,7 @@ on:
   # (optional) Run workflow manually
   workflow_dispatch:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "* * * * *"}]
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["main"]}
 
