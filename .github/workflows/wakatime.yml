@@ -15,7 +15,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2.4.2
-      - uses: 'tanawat011/tanawat011@main'
+        with:
+          path: main
+      - name: MainProcess
+        uses: tanawat011/tanawat011@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakapi.dev/api
