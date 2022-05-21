@@ -22,7 +22,7 @@ Hello 🖐️ friends, welcome to my github
 I am satisfied and I tried most fields of programming such as mobile application development, web design and development, etc., and finally I was able to find my interest, and that was web design and development and security. It has been almost 5 years. I am coding and now I am a fullstack developer
 &nbsp;
 
-In addition to my personal page, you can also follow my main page called <a href="https://www.instagram.com/barnamenevisiinsta/">barnamenevisiinsta</a> on Instagram.
+In addition to my personal website, you can also follow my main page called [Tanawat](https://www.instagram.com/ta.tanawat.pin/) on Instagram.
 </p>
 
 
@@ -80,7 +80,8 @@ OS, Tools and IDEs:  👇
  
 ⚡ Recent GitHub Activity
  
- ![Metrics](./github-metrics.svg)
+ ![Metrics](./github-metrics-classic.svg)
+ ![Metrics](./github-metrics-habits.svg)
  
 </div>
 
