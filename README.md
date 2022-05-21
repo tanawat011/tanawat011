@@ -79,8 +79,6 @@ OS, Tools and IDEs:  👇
  <summary>⚡ Recent GitHub Activity</summary>
  
  ![Metrics](./github-metrics.svg)
- 
- <img align="center" src="./github-metrics.svg" alt="Metrics" width="400">
 
 </details>
 
