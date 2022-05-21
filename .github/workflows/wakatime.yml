@@ -12,7 +12,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: tanawat011/tanawat011@main
+      - uses: tanawat011/tanawat011@latest
         with:
           token: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
