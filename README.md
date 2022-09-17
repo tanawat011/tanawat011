@@ -89,7 +89,7 @@ OS, Tools and IDEs:  👇
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 September 2021 - To: 14 September 2022
+From: 15 September 2021 - To: 15 September 2022
 
 Total Time: 7 hrs 23 mins
 
