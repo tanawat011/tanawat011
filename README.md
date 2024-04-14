@@ -89,7 +89,7 @@ OS, Tools and IDEs:  👇
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2023 - To: 12 April 2024
+From: 14 April 2023 - To: 13 April 2024
 
 Total Time: 11 hrs 39 mins
 
