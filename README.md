@@ -89,7 +89,7 @@ OS, Tools and IDEs:  👇
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2024 - To: 12 April 2025
+From: 13 April 2024 - To: 13 April 2025
 
 Total Time: 0 secs
 
