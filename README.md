@@ -1,99 +1,214 @@
+<![CDATA[# New GitHub Profile README
+
+Below is the complete README.md content to paste into `tanawat011/tanawat011/README.md`:
+
+---
+
+````markdown
 <div align="center">
- 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+I`m+Ta,Tanawat;I`m+a+Fullstack+Developer)](https://git.io/typing-svg)
- 
- [![image](https://user-images.githubusercontent.com/10110939/169654643-44d62b73-f51a-458f-b49d-ec8f8865b370.png)](https://tanawat.web.app/)
- 
-</div>
 
-<div align="left">
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Tanawat&fontSize=80&fontColor=c9d1d9&fontAlignY=35&desc=Solo%20Developer%20In%20the%20Shadow&descSize=20&descColor=58a6ff&descAlignY=55&animation=fadeIn" />
 
- [![Facebook](https://img.shields.io/badge/Tanawat-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://github.com/tanawat011](https://www.facebook.com/tanawat.pin))
- [![Instagram](https://img.shields.io/badge/Tanawat-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://github.com/tanawat011](https://www.instagram.com/ta.tanawat.pin/))
- [![LinkedIn](https://img.shields.io/badge/Tanawat-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/tanawat011](https://www.linkedin.com/in/tanawat-pinthongpan-683a84167/))
- [![Gmail](https://img.shields.io/badge/Tanawat-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanawat.works@gmail.com)
- [![GitHub](https://img.shields.io/badge/Tanawat-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanawat011)
- ![](https://komarev.com/ghpvc/?username=tanawat011&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
- 
-</div>  
-<p align="justify"> 
-Hello 🖐️ friends, welcome to my github
-I am satisfied and I tried most fields of programming such as mobile application development, web design and development, etc., and finally I was able to find my interest, and that was web design and development and security. It has been almost 5 years. I am coding and now I am a fullstack developer
-&nbsp;
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8C%91+Crafting+code+in+the+dark...;%E2%9A%A1+Building+what+others+only+imagine;%F0%9F%94%A5+Fullstack+Developer+%7C+Security+Enthusiast" alt="Typing SVG" />
+</a>
 
-In addition to my personal website, you can also follow my main page called [Tanawat](https://www.instagram.com/ta.tanawat.pin/) on Instagram. And this is my [Portfolio](https://tanawat.web.app/) website
-</p>
+<br/>
 
+<!-- Minimal social badges -->
+<a href="https://tanawat.web.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" />
+</a>
+<a href="https://www.instagram.com/ta.tanawat.pin/">
+  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58a6ff" />
+</a>
+<a href="https://github.com/tanawat011">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
+</a>
 
-<p align="left">
-I code with Framework, Platform and Libraries:  👇
- 
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<br/><br/>
 
-I code with Languages:  👇
- 
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-I code with Database:  👇
- 
- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
- 
-OS, Tools and IDEs:  👇
- 
- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
- ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-</p>
-
-&nbsp;
-&nbsp;
-## 📊 Github stats
-
-<div align="">
- 
-💻 GitHub Profile Stats
- 
- [<img src="https://github-readme-stats.vercel.app/api?username=tanawat011" width="420" height="140">](https://github.com/tanawat011/tanawat011)
- [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanawat011&layout=compact" width="390" height="140">](https://github.com/tanawat011/tanawat011)
+<!-- Profile views -->
+<img src="https://komarev.com/ghpvc/?username=tanawat011&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=161b22" />
 
 </div>
 
-<div align="">
- 
-⚡ Recent GitHub Activity
- 
- [<img src="./github-metrics-classic.svg" width="400">](https://github.com/tanawat011/tanawat011)
- [<img src="./github-metrics-habits.svg" width="400">](https://github.com/tanawat011/tanawat011)
- [<img src="./github-metrics-wakatime.svg" width="400">](https://github.com/tanawat011/tanawat011)
- [<img src="./github-metrics-commit-calendar.svg" width="400">](https://github.com/tanawat011/tanawat011)
- 
-</div>
+<br/>
 
-<!--START_SECTION:waka-->
+<!-- About section -->
+## 🌑 `> whoami`
 
-```text
-From: 12 March 2025 - To: 12 March 2026
-
-Total Time: 0 secs
-
-Other        11 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶   98.58 %
+```js
+const tanawat = {
+    alias: "TanawatDEVz",
+    location: "Thailand 🇹🇭",
+    role: "Solo Developer In the Shadow",
+    focus: ["Fullstack Development", "Web Security", "System Design"],
+    currentWeapon: "TypeScript + Go",
+    philosophy: "// The best code is the one no one sees, but everyone relies on.",
+};
 ```
 
-<!--END_SECTION:waka-->
+<br/>
+
+<!-- Tech Stack -->
+## ⚔️ `> weapons --list`
+
+<div align="center">
+
+<!-- Languages -->
+<details open>
+<summary><b>🗡️ Languages</b></summary>
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00add8)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)
+
+</details>
+
+<!-- Frameworks -->
+<details open>
+<summary><b>🛡️ Frameworks & Libraries</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38b2ac)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=6da55f)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+
+</details>
+
+<!-- Database -->
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169e1)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479a1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47a248)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=dc382d)
+
+</details>
+
+<!-- DevOps -->
+<details open>
+<summary><b>🕶️ DevOps & Tools</b></summary>
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=ff9900)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=ffca28)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=fcc624)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=f24e1e)
+
+</details>
+
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
+## 📊 `> stats --shadow-mode`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanawat011&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tanawat011&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanawat011&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" />
+
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+## 🐍 `> git log --shadow`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tanawat011/tanawat011/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tanawat011/tanawat011/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/tanawat011/tanawat011/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanawat011&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true" />
+
+</div>
+
+<br/>
+
+<!-- Quote -->
+<div align="center">
+
+```
+ ╔══════════════════════════════════════════════════════════════╗
+ ║                                                              ║
+ ║   "I don't work in the dark because I have to.               ║
+ ║    I work in the dark because that's where I do my best."    ║
+ ║                                                              ║
+ ║                                    — TanawatDEVz 🌑          ║
+ ║                                                              ║
+ ╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" />
+````
+
+---
+
+> [!NOTE]
+> **About the Snake Animation**: The snake contribution graph requires setting up a GitHub Action. Create `.github/workflows/snake.yml` in your `tanawat011` repo with:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: tanawat011
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+> If you don't want to set up the snake workflow, you can remove the `🐍 > git log --shadow` section entirely.
+]]>
