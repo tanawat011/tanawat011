@@ -113,10 +113,16 @@ const tanawat = {
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed" />
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032" />
+  <img src="https://img.shields.io/badge/npm-0d1117?style=for-the-badge&logo=npm&logoColor=cb3837" />
+  <img src="https://img.shields.io/badge/Yarn-0d1117?style=for-the-badge&logo=yarn&logoColor=2c8ebb" />
+  <img src="https://img.shields.io/badge/Bun-0d1117?style=for-the-badge&logo=bun&logoColor=fbf0df" />
+  <img src="https://img.shields.io/badge/Xcode-0d1117?style=for-the-badge&logo=xcode&logoColor=147efb" />
   <img src="https://img.shields.io/badge/Sentry-0d1117?style=for-the-badge&logo=sentry&logoColor=362d59" />
   <img src="https://img.shields.io/badge/Resend-0d1117?style=for-the-badge&logo=resend&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/ngrok-0d1117?style=for-the-badge&logo=ngrok&logoColor=1f1e37" />
   <img src="https://img.shields.io/badge/Line_OA-0d1117?style=for-the-badge&logo=line&logoColor=00c300" />
+  <img src="https://img.shields.io/badge/Antigravity-0d1117?style=for-the-badge&logo=google&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Cursor-0d1117?style=for-the-badge&logo=cursor&logoColor=ffffff" />
 </p>
 
 <br/>
