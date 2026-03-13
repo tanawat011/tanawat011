@@ -38,7 +38,7 @@ const tanawat = {
     location: "Thailand 🇹🇭",
     role: "Solo Developer In the Shadow",
     focus: ["Fullstack Development", "Web Security", "System Design"],
-    currentWeapon: "TypeScript + Go",
+    currentWeapon: "TypeScript + Next.js + NestJS",
     philosophy: "// The best code is the one no one sees, but everyone relies on.",
 };
 ```
@@ -52,41 +52,49 @@ const tanawat = {
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178c6" />
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
-  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00add8" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776ab" />
+  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777bb4" />
+  <img src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=f05138" />
+  <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175c2" />
   <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26" />
   <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6" />
 </p>
 
-<h3 align="center">🛡️ Frameworks & Libraries</h3>
+<h3 align="center">🛡️ Web Frameworks</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38b2ac" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=e0234e" />
   <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=6da55f" />
-  <img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=ff2d20" />
+  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38b2ac" />
 </p>
 
-<h3 align="center">🗄️ Databases</h3>
+<h3 align="center">📱 Mobile</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569b" />
+  <img src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=f05138" />
+</p>
+
+<h3 align="center">🗄️ Databases & Cloud</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169e1" />
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479a1" />
   <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47a248" />
   <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=dc382d" />
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=ffca28" />
+  <img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3fcf8e" />
 </p>
 
 <h3 align="center">🕶️ DevOps & Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed" />
-  <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326ce5" />
-  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=ff9900" />
-  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=ffca28" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=fcc624" />
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032" />
-  <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=f24e1e" />
 </p>
 
 <br/>
