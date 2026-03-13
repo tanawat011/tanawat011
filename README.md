@@ -79,15 +79,33 @@ const tanawat = {
   <img src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=f05138" />
 </p>
 
-<h3 align="center">🗄️ Databases & Cloud</h3>
+<h3 align="center">🤖 AI</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Opus-0d1117?style=for-the-badge&logo=anthropic&logoColor=d4a574" />
+  <img src="https://img.shields.io/badge/Claude_Sonnet-0d1117?style=for-the-badge&logo=anthropic&logoColor=d4a574" />
+  <img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8e75b2" />
+  <img src="https://img.shields.io/badge/GPT-0d1117?style=for-the-badge&logo=openai&logoColor=00a67e" />
+  <img src="https://img.shields.io/badge/OpenClaw-0d1117?style=for-the-badge&logo=huggingface&logoColor=ffcc00" />
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169e1" />
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479a1" />
   <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47a248" />
   <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=dc382d" />
+</p>
+
+<h3 align="center">☁️ Cloud & Platforms</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285f4" />
   <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=ffca28" />
   <img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3fcf8e" />
+  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759b" />
 </p>
 
 <h3 align="center">🕶️ DevOps & Tools</h3>
@@ -95,6 +113,10 @@ const tanawat = {
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed" />
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032" />
+  <img src="https://img.shields.io/badge/Sentry-0d1117?style=for-the-badge&logo=sentry&logoColor=362d59" />
+  <img src="https://img.shields.io/badge/Resend-0d1117?style=for-the-badge&logo=resend&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/ngrok-0d1117?style=for-the-badge&logo=ngrok&logoColor=1f1e37" />
+  <img src="https://img.shields.io/badge/Line_OA-0d1117?style=for-the-badge&logo=line&logoColor=00c300" />
 </p>
 
 <br/>
