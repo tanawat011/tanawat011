@@ -115,6 +115,8 @@ const tanawat = {
   <img src="https://img.shields.io/badge/DaisyUI-0d1117?style=flat-square&logo=daisyui&logoColor=5a0efd" />
   <img src="https://img.shields.io/badge/HeroUI-0d1117?style=flat-square&logo=heroui&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Ant_Design-0d1117?style=flat-square&logo=antdesign&logoColor=0170fe" />
+  <img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=e10098" />
+  <img src="https://img.shields.io/badge/RedwoodJS-0d1117?style=flat-square&logo=redwoodjs&logoColor=bf4722" />
 </p>
 </details>
 
