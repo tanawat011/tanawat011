@@ -129,13 +129,15 @@ const tanawat = {
 </details>
 
 <details>
-<summary>🗄️ Databases</summary>
+<summary>🗄️ Databases & ORM</summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1" />
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1" />
   <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47a248" />
   <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=dc382d" />
+  <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=2d3748" />
+  <img src="https://img.shields.io/badge/TypeORM-0d1117?style=flat-square&logo=typeorm&logoColor=fe0902" />
 </p>
 </details>
 
