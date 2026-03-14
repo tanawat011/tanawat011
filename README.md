@@ -45,85 +45,132 @@ const tanawat = {
 
 <br/>
 
-## ⚔️ `> weapons --list`
+## ⚔️ `> weapons --current`
 
-<h3 align="center">🗡️ Languages</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178c6" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776ab" />
-  <img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777bb4" />
-  <img src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=f05138" />
-  <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175c2" />
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6" />
-</p>
-
-<h3 align="center">🛡️ Web Frameworks</h3>
+> 🔥 _My daily driver stack — what I'm actively building with right now._
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=e0234e" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=6da55f" />
-  <img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=ff2d20" />
-  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38b2ac" />
+  <img src="https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=next.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/React_Native-161b22?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Flutter-161b22?style=for-the-badge&logo=flutter&logoColor=02569b" />
+  <img src="https://img.shields.io/badge/Swift-161b22?style=for-the-badge&logo=swift&logoColor=f05138" />
+  <img src="https://img.shields.io/badge/Tailwind-161b22?style=for-the-badge&logo=tailwindcss&logoColor=38b2ac" />
+  <br/>
+  <img src="https://img.shields.io/badge/Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=3fcf8e" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169e1" />
+  <img src="https://img.shields.io/badge/Vercel-161b22?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Bun-161b22?style=for-the-badge&logo=bun&logoColor=fbf0df" />
+  <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ed" />
+  <img src="https://img.shields.io/badge/Antigravity-161b22?style=for-the-badge&logo=google&logoColor=58a6ff" />
 </p>
 
-<h3 align="center">📱 Mobile</h3>
+<br/>
+
+## 🤖 `> ai --always-on`
+
+> 🧠 _AI is part of my daily workflow — coding, reviewing, and shipping with it._
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569b" />
-  <img src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=f05138" />
+  <img src="https://img.shields.io/badge/Claude_Opus-161b22?style=for-the-badge&logo=anthropic&logoColor=d4a574" />
+  <img src="https://img.shields.io/badge/Claude_Sonnet-161b22?style=for-the-badge&logo=anthropic&logoColor=d4a574" />
+  <img src="https://img.shields.io/badge/Gemini-161b22?style=for-the-badge&logo=googlegemini&logoColor=8e75b2" />
+  <img src="https://img.shields.io/badge/GPT-161b22?style=for-the-badge&logo=openai&logoColor=00a67e" />
+  <img src="https://img.shields.io/badge/OpenClaw-161b22?style=for-the-badge&logo=huggingface&logoColor=ffcc00" />
+  <img src="https://img.shields.io/badge/Cursor-161b22?style=for-the-badge&logo=cursor&logoColor=ffffff" />
 </p>
 
-<h3 align="center">🤖 AI</h3>
+<br/>
 
+## 🗡️ `> weapons --history`
+
+> 🧾 _Everything I've worked with over the years — battle-tested and shipped._
+
+<details>
+<summary>🗡️ Languages</summary>
+<br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Opus-0d1117?style=for-the-badge&logo=anthropic&logoColor=d4a574" />
-  <img src="https://img.shields.io/badge/Claude_Sonnet-0d1117?style=for-the-badge&logo=anthropic&logoColor=d4a574" />
-  <img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8e75b2" />
-  <img src="https://img.shields.io/badge/GPT-0d1117?style=for-the-badge&logo=openai&logoColor=00a67e" />
-  <img src="https://img.shields.io/badge/OpenClaw-0d1117?style=for-the-badge&logo=huggingface&logoColor=ffcc00" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab" />
+  <img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777bb4" />
+  <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=f05138" />
+  <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175c2" />
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6" />
 </p>
+</details>
 
-<h3 align="center">🗄️ Databases</h3>
-
+<details>
+<summary>🛡️ Web Frameworks & UI</summary>
+<br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169e1" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479a1" />
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47a248" />
-  <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=dc382d" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=e0234e" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=6da55f" />
+  <img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=ff2d20" />
+  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38b2ac" />
+  <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952b3" />
+  <img src="https://img.shields.io/badge/DaisyUI-0d1117?style=flat-square&logo=daisyui&logoColor=5a0efd" />
+  <img src="https://img.shields.io/badge/HeroUI-0d1117?style=flat-square&logo=heroui&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Ant_Design-0d1117?style=flat-square&logo=antdesign&logoColor=0170fe" />
 </p>
+</details>
 
-<h3 align="center">☁️ Cloud & Platforms</h3>
-
+<details>
+<summary>📱 Mobile</summary>
+<br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/GCP-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285f4" />
-  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=ffca28" />
-  <img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3fcf8e" />
-  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/WordPress-0d1117?style=for-the-badge&logo=wordpress&logoColor=21759b" />
+  <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569b" />
+  <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=f05138" />
 </p>
+</details>
 
-<h3 align="center">🕶️ DevOps & Tools</h3>
-
+<details>
+<summary>🗄️ Databases</summary>
+<br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032" />
-  <img src="https://img.shields.io/badge/npm-0d1117?style=for-the-badge&logo=npm&logoColor=cb3837" />
-  <img src="https://img.shields.io/badge/Yarn-0d1117?style=for-the-badge&logo=yarn&logoColor=2c8ebb" />
-  <img src="https://img.shields.io/badge/Bun-0d1117?style=for-the-badge&logo=bun&logoColor=fbf0df" />
-  <img src="https://img.shields.io/badge/Xcode-0d1117?style=for-the-badge&logo=xcode&logoColor=147efb" />
-  <img src="https://img.shields.io/badge/Sentry-0d1117?style=for-the-badge&logo=sentry&logoColor=362d59" />
-  <img src="https://img.shields.io/badge/Resend-0d1117?style=for-the-badge&logo=resend&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/ngrok-0d1117?style=for-the-badge&logo=ngrok&logoColor=1f1e37" />
-  <img src="https://img.shields.io/badge/Line_OA-0d1117?style=for-the-badge&logo=line&logoColor=00c300" />
-  <img src="https://img.shields.io/badge/Antigravity-0d1117?style=for-the-badge&logo=google&logoColor=58a6ff" />
-  <img src="https://img.shields.io/badge/Cursor-0d1117?style=for-the-badge&logo=cursor&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1" />
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47a248" />
+  <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=dc382d" />
 </p>
+</details>
+
+<details>
+<summary>☁️ Cloud & Platforms</summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=4285f4" />
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=ffca28" />
+  <img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3fcf8e" />
+  <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639" />
+  <img src="https://img.shields.io/badge/WordPress-0d1117?style=flat-square&logo=wordpress&logoColor=21759b" />
+</p>
+</details>
+
+<details>
+<summary>🕶️ DevOps & Tools</summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed" />
+  <img src="https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05032" />
+  <img src="https://img.shields.io/badge/npm-0d1117?style=flat-square&logo=npm&logoColor=cb3837" />
+  <img src="https://img.shields.io/badge/Yarn-0d1117?style=flat-square&logo=yarn&logoColor=2c8ebb" />
+  <img src="https://img.shields.io/badge/Bun-0d1117?style=flat-square&logo=bun&logoColor=fbf0df" />
+  <img src="https://img.shields.io/badge/Xcode-0d1117?style=flat-square&logo=xcode&logoColor=147efb" />
+  <img src="https://img.shields.io/badge/Sentry-0d1117?style=flat-square&logo=sentry&logoColor=362d59" />
+  <img src="https://img.shields.io/badge/Resend-0d1117?style=flat-square&logo=resend&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/ngrok-0d1117?style=flat-square&logo=ngrok&logoColor=1f1e37" />
+  <img src="https://img.shields.io/badge/Line_OA-0d1117?style=flat-square&logo=line&logoColor=00c300" />
+  <img src="https://img.shields.io/badge/Antigravity-0d1117?style=flat-square&logo=google&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logo=cursor&logoColor=ffffff" />
+</p>
+</details>
 
 <br/>
 
