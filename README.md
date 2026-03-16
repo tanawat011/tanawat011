@@ -56,6 +56,8 @@ const tanawat = {
   <img src="https://img.shields.io/badge/Flutter-161b22?style=for-the-badge&logo=flutter&logoColor=02569b" />
   <img src="https://img.shields.io/badge/Swift-161b22?style=for-the-badge&logo=swift&logoColor=f05138" />
   <img src="https://img.shields.io/badge/Tailwind-161b22?style=for-the-badge&logo=tailwindcss&logoColor=38b2ac" />
+  <img src="https://img.shields.io/badge/Ant_Design-161b22?style=for-the-badge&logo=antdesign&logoColor=0170fe" />
+  <img src="https://img.shields.io/badge/shadcn/ui-161b22?style=for-the-badge&logo=shadcnui&logoColor=ffffff" />
   <br/>
   <img src="https://img.shields.io/badge/Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=3fcf8e" />
   <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169e1" />
@@ -72,12 +74,12 @@ const tanawat = {
 > 🧠 _AI is part of my daily workflow — coding, reviewing, and shipping with it._
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Opus-161b22?style=for-the-badge&logo=anthropic&logoColor=d4a574" />
-  <img src="https://img.shields.io/badge/Claude_Sonnet-161b22?style=for-the-badge&logo=anthropic&logoColor=d4a574" />
+  <img src="https://img.shields.io/badge/Claude-161b22?style=for-the-badge&logo=anthropic&logoColor=d4a574" />
   <img src="https://img.shields.io/badge/Gemini-161b22?style=for-the-badge&logo=googlegemini&logoColor=8e75b2" />
   <img src="https://img.shields.io/badge/GPT-161b22?style=for-the-badge&logo=openai&logoColor=00a67e" />
   <img src="https://img.shields.io/badge/OpenClaw-161b22?style=for-the-badge&logo=huggingface&logoColor=ffcc00" />
   <img src="https://img.shields.io/badge/Cursor-161b22?style=for-the-badge&logo=cursor&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Antigravity-161b22?style=for-the-badge&logo=google&logoColor=58a6ff" />
 </p>
 
 <br/>
@@ -117,6 +119,7 @@ const tanawat = {
   <img src="https://img.shields.io/badge/Ant_Design-0d1117?style=flat-square&logo=antdesign&logoColor=0170fe" />
   <img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=e10098" />
   <img src="https://img.shields.io/badge/RedwoodJS-0d1117?style=flat-square&logo=redwoodjs&logoColor=bf4722" />
+  <img src="https://img.shields.io/badge/shadcn/ui-0d1117?style=flat-square&logo=shadcnui&logoColor=ffffff" />
 </p>
 </details>
 
