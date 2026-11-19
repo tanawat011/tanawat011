@@ -1,0 +1,42 @@
+# The snake under "> git log --shadow": redrawn from the contribution grid every day, and on every push to main,
+# into the `output` branch that the README reads. Free on a public repo; it uses only this repo's own token.
+name: Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      # Platane/snk v3.5.0, pinned by commit
+      - uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?palette=github-light&color_snake=#4f5ae0&color_dots=#ebedf0,#cfd3ff,#a3abff,#7a83f2,#4f5ae0
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#7cc8ff&color_dots=#161b22,#1d2b4f,#2c4c8f,#4f80d6,#7cc8ff
+
+      - name: Publish to the output branch
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -q -m "Snake from the contribution grid, $(date -u +%Y-%m-%d)"
+          git push -q -f "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output

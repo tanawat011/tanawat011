@@ -1,35 +1,13 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Tanawat Pinthongpan. Fullstack developer. I build the tools I use." src="assets/banner-light.svg" width="100%">
+</picture>
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Tanawat&fontSize=80&fontColor=c9d1d9&fontAlignY=35&desc=Solo%20Developer%20In%20the%20Shadow&descSize=20&descColor=58a6ff&descAlignY=55&animation=fadeIn" />
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8C%91+Crafting+code+in+the+dark...;%F0%9F%A6%80+11+desktop+apps.+Rust+%2B+Tauri.+Built+solo.;%F0%9F%94%A5+Fullstack+%7C+Desktop+%7C+Security" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Social badges -->
-<a href="https://tanawat.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" />
-</a>
-<a href="https://vtxlabs.app/">
-  <img src="https://img.shields.io/badge/VTX_Labs-0d1117?style=for-the-badge&logo=rocket&logoColor=58a6ff" />
-</a>
-<a href="https://www.instagram.com/ta.tanawat.pin/">
-  <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58a6ff" />
-</a>
-<a href="https://github.com/tanawat011">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
-</a>
-
-<br/><br/>
-
-<!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=tanawat011&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=161b22" />
-
-</div>
+<p align="center">
+  <a href="https://tanawat.dev/"><img src="https://img.shields.io/badge/tanawat.dev-0d1117?style=for-the-badge&logo=googlechrome&logoColor=7cc8ff" alt="Portfolio: tanawat.dev"></a>
+  <a href="https://vtxlabs.app/"><img src="https://img.shields.io/badge/VTX_Labs-0d1117?style=for-the-badge&logo=rocket&logoColor=7cc8ff" alt="VTX Labs"></a>
+  <a href="https://www.linkedin.com/in/tanawat-pinthongpan-683a84167/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge" alt="LinkedIn"></a>
+</p>
 
 <br/>
 
@@ -39,7 +17,9 @@
 const tanawat = {
     alias: "TanawatDEVz",
     location: "Thailand 🇹🇭",
-    role: "Solo Developer In the Shadow",
+    role: "Fullstack developer",
+    tagline: "I build the tools I use.",
+    shipping: "web apps since July 2017",
     building: "VTX — 11 desktop apps, one element each",
     focus: ["Desktop Apps", "Fullstack", "Web Security", "System Design"],
     currentWeapon: "Rust + Tauri + React + TypeScript",
@@ -51,35 +31,37 @@ const tanawat = {
 
 ## 🌌 `> ls ~/vtx`
 
-> 🧪 _The tools I use every day, so I built my own. Eleven desktop apps, one element each, all built solo._
+> 🧪 _The tools I use every day, so I built my own. Eleven desktop apps in Rust + Tauri, one element each, all built solo._
 
-| | App | What it does |
-|:-:|---|---|
-| 💎 | **Lapis** · _stone_ | Database client. PostgreSQL, MySQL / MariaDB, SQLite, SQL Server, MongoDB and Redis in one window. |
-| ⚡ | **Fulmen** · _lightning_ | API client. HTTP, GraphQL, WebSocket, gRPC, SSE and MCP. Requests leave from Rust, not a browser. |
-| 🌿 | **Silva** · _wood_ | Git client. Every action can be undone, and it runs your own git: hooks, LFS and signing included. |
-| 🌬️ | **Ventus** · _wind_ | SSH client. Reads your `~/.ssh/config` and agent, and checks the host key before sending anything. |
-| 🔥 | **Ignis** · _fire_ | Dev toolbox. Paste anything and it knows what it is: JSON, JWT, Base64, timestamps, cron, cURL. |
-| 💧 | **Aqua** · _water_ | Mac cleaner that knows a developer's disk: build folders, tool caches, simulators, Docker. |
-| 🟠 | **Cuprum** · _copper_ | Code editor that traces where your data goes. A personal build. |
-| ✨ | **Lux** · _light_ | Video maker. Short videos from a script, with a live preview of every scene. A personal build. |
-| 🪩 | **Mercurius** · _quicksilver_ | Mail. Every Gmail account in one inbox, stored on your Mac. A personal build. |
-| 🔮 | **Crystallum** · _crystal_ | Remote desktop from your Mac to a Windows PC. A personal build. |
-| 🌫️ | **Ros** · _dew_ | Notes as plain Markdown files that the other apps write into. |
+| App | What it does |
+|---|---|
+| <img src="assets/icons/lapis.png" width="22" align="top" alt=""> **Lapis** · _stone_ | Database client. PostgreSQL, MySQL / MariaDB, SQLite, SQL Server, MongoDB and Redis in one window. |
+| <img src="assets/icons/fulmen.png" width="22" align="top" alt=""> **Fulmen** · _lightning_ | API client. HTTP, GraphQL, WebSocket, gRPC, SSE and MCP. Requests leave from Rust, not a browser. |
+| <img src="assets/icons/silva.png" width="22" align="top" alt=""> **Silva** · _wood_ | Git client. Every action can be undone, and it runs your own git: hooks, LFS and signing included. |
+| <img src="assets/icons/ventus.png" width="22" align="top" alt=""> **Ventus** · _wind_ | SSH client. Reads your `~/.ssh/config` and agent, and checks the host key before sending anything. |
+| <img src="assets/icons/ignis.png" width="22" align="top" alt=""> **Ignis** · _fire_ | Dev toolbox. Paste anything and it knows what it is: JSON, JWT, Base64, timestamps, cron, cURL. |
+| <img src="assets/icons/aqua.png" width="22" align="top" alt=""> **Aqua** · _water_ | Mac cleaner that knows a developer's disk: build folders, tool caches, simulators, Docker. |
+| <img src="assets/icons/cuprum.png" width="22" align="top" alt=""> **Cuprum** · _copper_ | Code editor that traces where your data goes. A personal build. |
+| <img src="assets/icons/lux.png" width="22" align="top" alt=""> **Lux** · _light_ | Video maker. Short videos from a script, with a live preview of every scene. A personal build. |
+| <img src="assets/icons/mercurius.png" width="22" align="top" alt=""> **Mercurius** · _quicksilver_ | Mail. Gmail and Outlook accounts in one inbox, stored on your Mac. A personal build. |
+| <img src="assets/icons/crystallum.png" width="22" align="top" alt=""> **Crystallum** · _crystal_ | Remote desktop from your Mac to a Windows PC. A personal build. |
+| <img src="assets/icons/ros.png" width="22" align="top" alt=""> **Ros** · _dew_ | Notes as plain Markdown files that the other apps write into. |
+
+<sub>Cuprum, Lux, Mercurius and Crystallum are personal builds. Sorry, you'll probably never get to use them 😏</sub>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-161b22?style=for-the-badge&logo=rust&logoColor=dea584" />
-  <img src="https://img.shields.io/badge/Tauri_2-161b22?style=for-the-badge&logo=tauri&logoColor=24c8db" />
-  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178c6" />
-  <img src="https://img.shields.io/badge/macOS_first-161b22?style=for-the-badge&logo=apple&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Rust-161b22?style=for-the-badge&logo=rust&logoColor=dea584" alt="Rust">
+  <img src="https://img.shields.io/badge/Tauri_2-161b22?style=for-the-badge&logo=tauri&logoColor=24c8db" alt="Tauri 2">
+  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61dafb" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178c6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/macOS_first-161b22?style=for-the-badge&logo=apple&logoColor=ffffff" alt="macOS first">
 </p>
 
-- 🔒 **Your Mac, not my cloud.** Data stays in files and the Keychain on your machine. No account, no server in between.
+- 🔌 **No account. No cloud. No tracking.** Everything they keep stays on your own machine, and they go online only for what you connect them to or ask them to do. The one extra: four of them check for updates once a day, and you can turn that off.
 - 🔍 **They show their work.** Silva lists every git command it runs, and Aqua says why each item is safe to remove.
 - ↩️ **Mistakes come back.** Silva can undo any action, and Lapis keeps the SQL that reverses each write.
 
-> Most of the family is private while it grows. Fulmen's builds are public at [**fulmen-releases**](https://github.com/tanawat011/fulmen-releases), and free web tools plus the whole family live at [**vtxlabs.app**](https://vtxlabs.app/).
+> Most of the family is private while it grows. Lapis and Fulmen have public preview builds at [**vtx-lapis-release**](https://github.com/tanawat011/vtx-lapis-release) and [**vtx-fulmen-release**](https://github.com/tanawat011/vtx-fulmen-release), and free web tools plus the whole family live at [**vtxlabs.app**](https://vtxlabs.app/).
 
 <br/>
 
@@ -88,35 +70,33 @@ const tanawat = {
 > 🔥 _My daily driver stack — what I'm actively building with right now._
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-161b22?style=for-the-badge&logo=rust&logoColor=dea584" />
-  <img src="https://img.shields.io/badge/Tauri-161b22?style=for-the-badge&logo=tauri&logoColor=24c8db" />
-  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178c6" />
-  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=next.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Tailwind-161b22?style=for-the-badge&logo=tailwindcss&logoColor=38b2ac" />
-  <img src="https://img.shields.io/badge/shadcn/ui-161b22?style=for-the-badge&logo=shadcnui&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Rust-161b22?style=for-the-badge&logo=rust&logoColor=dea584" alt="Rust">
+  <img src="https://img.shields.io/badge/Tauri_2-161b22?style=for-the-badge&logo=tauri&logoColor=24c8db" alt="Tauri 2">
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178c6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61dafb" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind-161b22?style=for-the-badge&logo=tailwindcss&logoColor=38b2ac" alt="Tailwind">
+  <img src="https://img.shields.io/badge/shadcn/ui-161b22?style=for-the-badge&logo=shadcnui&logoColor=ffffff" alt="shadcn/ui">
   <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169e1" />
-  <img src="https://img.shields.io/badge/SQLite-161b22?style=for-the-badge&logo=sqlite&logoColor=4fa3d1" />
-  <img src="https://img.shields.io/badge/Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=3fcf8e" />
-  <img src="https://img.shields.io/badge/Vercel-161b22?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Bun-161b22?style=for-the-badge&logo=bun&logoColor=fbf0df" />
-  <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ed" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169e1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-161b22?style=for-the-badge&logo=sqlite&logoColor=4fa3d1" alt="SQLite">
+  <img src="https://img.shields.io/badge/Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=3fcf8e" alt="Supabase">
+  <img src="https://img.shields.io/badge/Vercel-161b22?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel">
+  <img src="https://img.shields.io/badge/Bun-161b22?style=for-the-badge&logo=bun&logoColor=fbf0df" alt="Bun">
+  <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker">
 </p>
 
 <br/>
 
 ## 🤖 `> ai --always-on`
 
-> 🧠 _AI is part of my daily workflow — coding, reviewing, and shipping with it._
+> 🧠 _AI is part of my daily workflow — coding, reviewing, and shipping with it. And yes, VTX was built with a LOT of AI help. It's 2026, I'm not hiding it._
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude-161b22?style=for-the-badge&logo=anthropic&logoColor=d4a574" />
-  <img src="https://img.shields.io/badge/Gemini-161b22?style=for-the-badge&logo=googlegemini&logoColor=8e75b2" />
-  <img src="https://img.shields.io/badge/GPT-161b22?style=for-the-badge&logo=openai&logoColor=00a67e" />
-  <img src="https://img.shields.io/badge/OpenClaw-161b22?style=for-the-badge&logo=huggingface&logoColor=ffcc00" />
-  <img src="https://img.shields.io/badge/Cursor-161b22?style=for-the-badge&logo=cursor&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Antigravity-161b22?style=for-the-badge&logo=google&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/Claude_Code-161b22?style=for-the-badge&logo=claude&logoColor=d97757" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Copilot-161b22?style=for-the-badge&logo=githubcopilot&logoColor=ffffff" alt="Copilot">
+  <img src="https://img.shields.io/badge/Gemini-161b22?style=for-the-badge&logo=googlegemini&logoColor=8e75b2" alt="Gemini">
+  <img src="https://img.shields.io/badge/GPT-161b22?style=for-the-badge" alt="GPT">
 </p>
 
 <br/>
@@ -129,16 +109,18 @@ const tanawat = {
 <summary>🗡️ Languages</summary>
 <br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6" />
-  <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=dea584" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e" />
-  <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00add8" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab" />
-  <img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777bb4" />
-  <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=f05138" />
-  <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175c2" />
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572b6" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=dea584" alt="Rust">
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=00add8" alt="Go">
+  <img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=f89820" alt="Java">
+  <img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=7f52ff" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776ab" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777bb4" alt="PHP">
+  <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=f05138" alt="Swift">
+  <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175c2" alt="Dart">
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34f26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css&logoColor=1572b6" alt="CSS3">
 </p>
 </details>
 
@@ -146,19 +128,19 @@ const tanawat = {
 <summary>🛡️ Web Frameworks & UI</summary>
 <br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=e0234e" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=6da55f" />
-  <img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=ff2d20" />
-  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38b2ac" />
-  <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952b3" />
-  <img src="https://img.shields.io/badge/DaisyUI-0d1117?style=flat-square&logo=daisyui&logoColor=5a0efd" />
-  <img src="https://img.shields.io/badge/HeroUI-0d1117?style=flat-square&logo=heroui&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Ant_Design-0d1117?style=flat-square&logo=antdesign&logoColor=0170fe" />
-  <img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=e10098" />
-  <img src="https://img.shields.io/badge/RedwoodJS-0d1117?style=flat-square&logo=redwoodjs&logoColor=bf4722" />
-  <img src="https://img.shields.io/badge/shadcn/ui-0d1117?style=flat-square&logo=shadcnui&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=ffffff" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb" alt="React">
+  <img src="https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=e0234e" alt="NestJS">
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=6da55f" alt="Node.js">
+  <img src="https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=ff2d20" alt="Laravel">
+  <img src="https://img.shields.io/badge/RedwoodJS-0d1117?style=flat-square&logo=redwoodjs&logoColor=bf4722" alt="RedwoodJS">
+  <img src="https://img.shields.io/badge/GraphQL-0d1117?style=flat-square&logo=graphql&logoColor=e10098" alt="GraphQL">
+  <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38b2ac" alt="Tailwind">
+  <img src="https://img.shields.io/badge/shadcn/ui-0d1117?style=flat-square&logo=shadcnui&logoColor=ffffff" alt="shadcn/ui">
+  <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952b3" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/DaisyUI-0d1117?style=flat-square&logo=daisyui&logoColor=5a0efd" alt="DaisyUI">
+  <img src="https://img.shields.io/badge/HeroUI-0d1117?style=flat-square&logo=heroui&logoColor=ffffff" alt="HeroUI">
+  <img src="https://img.shields.io/badge/Ant_Design-0d1117?style=flat-square&logo=antdesign&logoColor=0170fe" alt="Ant Design">
 </p>
 </details>
 
@@ -166,10 +148,10 @@ const tanawat = {
 <summary>🖥️ Desktop</summary>
 <br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/Tauri-0d1117?style=flat-square&logo=tauri&logoColor=24c8db" />
-  <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=dea584" />
-  <img src="https://img.shields.io/badge/SwiftUI-0d1117?style=flat-square&logo=swift&logoColor=f05138" />
-  <img src="https://img.shields.io/badge/macOS-0d1117?style=flat-square&logo=apple&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Tauri_2-0d1117?style=flat-square&logo=tauri&logoColor=24c8db" alt="Tauri 2">
+  <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=dea584" alt="Rust">
+  <img src="https://img.shields.io/badge/SwiftUI-0d1117?style=flat-square&logo=swift&logoColor=f05138" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/macOS-0d1117?style=flat-square&logo=apple&logoColor=ffffff" alt="macOS">
 </p>
 </details>
 
@@ -177,9 +159,9 @@ const tanawat = {
 <summary>📱 Mobile</summary>
 <br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569b" />
-  <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=f05138" />
+  <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61dafb" alt="React Native">
+  <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569b" alt="Flutter">
+  <img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=f05138" alt="Swift">
 </p>
 </details>
 
@@ -187,15 +169,15 @@ const tanawat = {
 <summary>🗄️ Databases & ORM</summary>
 <br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1" />
-  <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1" />
-  <img src="https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=c0765a" />
-  <img src="https://img.shields.io/badge/SQL_Server-0d1117?style=flat-square&logo=microsoftsqlserver&logoColor=cc2927" />
-  <img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=4fa3d1" />
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47a248" />
-  <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=dc382d" />
-  <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=2d3748" />
-  <img src="https://img.shields.io/badge/TypeORM-0d1117?style=flat-square&logo=typeorm&logoColor=fe0902" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169e1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479a1" alt="MySQL">
+  <img src="https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=c0765a" alt="MariaDB">
+  <img src="https://img.shields.io/badge/SQL_Server-0d1117?style=flat-square" alt="SQL Server">
+  <img src="https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=4fa3d1" alt="SQLite">
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47a248" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=dc382d" alt="Redis">
+  <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=ffffff" alt="Prisma">
+  <img src="https://img.shields.io/badge/TypeORM-0d1117?style=flat-square&logo=typeorm&logoColor=fe0902" alt="TypeORM">
 </p>
 </details>
 
@@ -203,12 +185,12 @@ const tanawat = {
 <summary>☁️ Cloud & Platforms</summary>
 <br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=4285f4" />
-  <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=ffca28" />
-  <img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3fcf8e" />
-  <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639" />
-  <img src="https://img.shields.io/badge/WordPress-0d1117?style=flat-square&logo=wordpress&logoColor=21759b" />
+  <img src="https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=4285f4" alt="GCP">
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=ffca28" alt="Firebase">
+  <img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3fcf8e" alt="Supabase">
+  <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=ffffff" alt="Vercel">
+  <img src="https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639" alt="Nginx">
+  <img src="https://img.shields.io/badge/WordPress-0d1117?style=flat-square&logo=wordpress&logoColor=21759b" alt="WordPress">
 </p>
 </details>
 
@@ -216,44 +198,59 @@ const tanawat = {
 <summary>🕶️ DevOps & Tools</summary>
 <br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed" />
-  <img src="https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05032" />
-  <img src="https://img.shields.io/badge/npm-0d1117?style=flat-square&logo=npm&logoColor=cb3837" />
-  <img src="https://img.shields.io/badge/Yarn-0d1117?style=flat-square&logo=yarn&logoColor=2c8ebb" />
-  <img src="https://img.shields.io/badge/Bun-0d1117?style=flat-square&logo=bun&logoColor=fbf0df" />
-  <img src="https://img.shields.io/badge/Xcode-0d1117?style=flat-square&logo=xcode&logoColor=147efb" />
-  <img src="https://img.shields.io/badge/Sentry-0d1117?style=flat-square&logo=sentry&logoColor=362d59" />
-  <img src="https://img.shields.io/badge/Resend-0d1117?style=flat-square&logo=resend&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/ngrok-0d1117?style=flat-square&logo=ngrok&logoColor=1f1e37" />
-  <img src="https://img.shields.io/badge/Line_OA-0d1117?style=flat-square&logo=line&logoColor=00c300" />
-  <img src="https://img.shields.io/badge/Antigravity-0d1117?style=flat-square&logo=google&logoColor=58a6ff" />
-  <img src="https://img.shields.io/badge/Cursor-0d1117?style=flat-square&logo=cursor&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05032" alt="Git">
+  <img src="https://img.shields.io/badge/npm-0d1117?style=flat-square&logo=npm&logoColor=cb3837" alt="npm">
+  <img src="https://img.shields.io/badge/pnpm-0d1117?style=flat-square&logo=pnpm&logoColor=f69220" alt="pnpm">
+  <img src="https://img.shields.io/badge/Yarn-0d1117?style=flat-square&logo=yarn&logoColor=2c8ebb" alt="Yarn">
+  <img src="https://img.shields.io/badge/Bun-0d1117?style=flat-square&logo=bun&logoColor=fbf0df" alt="Bun">
+  <img src="https://img.shields.io/badge/Homebrew-0d1117?style=flat-square&logo=homebrew&logoColor=fbb040" alt="Homebrew">
+  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat-square" alt="VS Code">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-0d1117?style=flat-square&logo=intellijidea&logoColor=fe315d" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/Xcode-0d1117?style=flat-square&logo=xcode&logoColor=147efb" alt="Xcode">
+  <img src="https://img.shields.io/badge/Sentry-0d1117?style=flat-square&logo=sentry&logoColor=ffffff" alt="Sentry">
+  <img src="https://img.shields.io/badge/Resend-0d1117?style=flat-square&logo=resend&logoColor=ffffff" alt="Resend">
+  <img src="https://img.shields.io/badge/ngrok-0d1117?style=flat-square&logo=ngrok&logoColor=ffffff" alt="ngrok">
+  <img src="https://img.shields.io/badge/LINE_OA-0d1117?style=flat-square&logo=line&logoColor=00c300" alt="LINE OA">
 </p>
 </details>
 
 <br/>
 
-## 📊 `> stats --shadow-mode`
+## 📊 `> stats --honest`
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanawat011&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tanawat011&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
-</div>
+> 🙃 _// stats that no one asked for, but here they are. Six jokes first, then four that are actually true._
 
-<br/>
+| | Stat no one asked for |
+|---|---|
+| ☕&nbsp;**∞** | **Coffee consumed.** And counting… |
+| 🐛&nbsp;**9,999+** | **Bugs created & fixed.** The 10,000th one is still in production. |
+| 🔥&nbsp;**0** | **Stack Overflow visits.** Since 2024. Thanks, AI. |
+| 🤖&nbsp;**AI&#8209;assisted** | **This profile.** Yes, AI helped. No, I'm not ashamed. |
+| 🌙&nbsp;**Too&nbsp;many** | **Late-night deploys.** "It works on my machine." |
+| 🔄&nbsp;**∞** | **Times I said "one more fix".** 3 hours later… |
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanawat011&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" />
-</div>
+**…and four that are actually true ✓**
+
+| | Measured |
+|---|---|
+| 📦&nbsp;**142&nbsp;GB** | **Lapis's Rust build folder.** Just `target/`, measured once on 19 Nov 2026. My SSD would like a word. |
+| 🎨&nbsp;**~88&nbsp;%** | **White, at the brightest.** The strongest text in my dark themes stops there. Tuned all day so your eyes don't burn. |
+| 🧪&nbsp;**11** | **Apps named after elements.** Still missing one element: enough sleep. |
+| 🌙&nbsp;**7&nbsp;%** | **Of my commits land between midnight and 6 AM.** 3,099 commits across the VTX repos, as of 19 Nov 2026. The other ones aren't exactly early either. |
 
 <br/>
 
 ## 🐍 `> git log --shadow`
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanawat011&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanawat011/tanawat011/output/github-snake-dark.svg">
+    <img alt="A snake eating my GitHub contribution grid" src="https://raw.githubusercontent.com/tanawat011/tanawat011/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+
+<sub>Redrawn every day from my contribution grid by a GitHub Action in this repo (<a href="https://github.com/Platane/snk">Platane/snk</a>).</sub>
 
 <br/>
 
@@ -262,15 +259,12 @@ const tanawat = {
 ```
  ╔══════════════════════════════════════════════════════════════╗
  ║                                                              ║
- ║   "I don't work in the dark because I have to.               ║
- ║    I work in the dark because that's where I do my best."    ║
+ ║   "I use these tools every day,                              ║
+ ║    so I built my own."                                       ║
  ║                                                              ║
- ║                                    — TanawatDEVz 🌑          ║
+ ║                                         — TanawatDEVz        ║
  ║                                                              ║
  ╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" />
