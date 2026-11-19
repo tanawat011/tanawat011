@@ -116,29 +116,6 @@ const tanawat = {
 
 <br/>
 
-## ⚔️ `> weapons --current`
-
-> 🔥 _My daily driver stack — what I'm actively building with right now._
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-161b22?style=for-the-badge&logo=rust&logoColor=dea584" alt="Rust">
-  <img src="https://img.shields.io/badge/Tauri_2-161b22?style=for-the-badge&logo=tauri&logoColor=24c8db" alt="Tauri 2">
-  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178c6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61dafb" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind-161b22?style=for-the-badge&logo=tailwindcss&logoColor=38b2ac" alt="Tailwind">
-  <img src="https://img.shields.io/badge/shadcn/ui-161b22?style=for-the-badge&logo=shadcnui&logoColor=ffffff" alt="shadcn/ui">
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=4169e1" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/SQLite-161b22?style=for-the-badge&logo=sqlite&logoColor=4fa3d1" alt="SQLite">
-  <img src="https://img.shields.io/badge/Supabase-161b22?style=for-the-badge&logo=supabase&logoColor=3fcf8e" alt="Supabase">
-  <img src="https://img.shields.io/badge/Vercel-161b22?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel">
-  <img src="https://img.shields.io/badge/Bun-161b22?style=for-the-badge&logo=bun&logoColor=fbf0df" alt="Bun">
-  <img src="https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker">
-</p>
-
-<br/>
-
 ## 🤖 `> ai --always-on`
 
 > 🧠 _AI is part of my daily workflow — coding, reviewing, and shipping with it. And yes, VTX was built with a LOT of AI help. It's 2026, I'm not hiding it._
