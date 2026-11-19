@@ -40,18 +40,18 @@ Fullstack developer in Thailand, building web apps for teams since 2017. This ye
 ### Stack
 
 **Now** &nbsp; Rust · Tauri 2 · React · TypeScript · Next.js · Tailwind · shadcn/ui · PostgreSQL · SQLite · Supabase · Vercel · Bun · Docker<br>
-**Every day** &nbsp; Claude · Gemini · GPT · Cursor
+**Every day** &nbsp; Claude Code · Copilot · Gemini · GPT
 
 <details>
 <summary>Everything I've shipped with since 2017</summary>
 <br>
 
-**Languages** TypeScript, Rust, JavaScript, Go, Python, PHP, Swift, Dart<br>
+**Languages** TypeScript, Rust, JavaScript, Go, Java, Kotlin, Python, PHP, Swift, Dart<br>
 **Web** Next.js, React, NestJS, Node.js, Laravel, RedwoodJS, GraphQL, Tailwind, Bootstrap, DaisyUI, HeroUI, Ant Design, shadcn/ui<br>
 **Desktop** Tauri, Rust, SwiftUI, macOS<br>
 **Mobile** React Native, Flutter, Swift<br>
 **Data** PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB, Redis, Prisma, TypeORM<br>
 **Cloud** GCP, Firebase, Supabase, Vercel, Nginx, WordPress<br>
-**Tools** Docker, Git, npm, Yarn, Bun, Xcode, Sentry, Resend, ngrok, LINE OA, Cursor, Antigravity
+**Tools** Docker, Git, npm, pnpm, Yarn, Bun, Homebrew, VS Code, IntelliJ IDEA, Xcode, Sentry, Resend, ngrok, LINE OA
 
 </details>
