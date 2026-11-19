@@ -29,6 +29,57 @@ const tanawat = {
 
 <br/>
 
+## ⚡ `> stack --core`
+
+> 💪 _What I'm strongest in today: the ones I reach for first. Everything else I've shipped with is further down, under `> weapons --history`._
+
+<p align="center">
+  <sub><b>Languages</b></sub><br>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/typescript-dark.svg"><img src="assets/stack/typescript-light.svg" alt="TypeScript" width="132" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/rust-dark.svg"><img src="assets/stack/rust-light.svg" alt="Rust" width="86" height="34"></picture>
+</p>
+
+<p align="center">
+  <sub><b>Frontend</b></sub><br>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/react-dark.svg"><img src="assets/stack/react-light.svg" alt="React" width="93" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/next-js-dark.svg"><img src="assets/stack/next-js-light.svg" alt="Next.js" width="109" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/tailwind-css-dark.svg"><img src="assets/stack/tailwind-css-light.svg" alt="Tailwind CSS" width="148" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/ant-design-dark.svg"><img src="assets/stack/ant-design-light.svg" alt="Ant Design" width="132" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/shadcn-ui-dark.svg"><img src="assets/stack/shadcn-ui-light.svg" alt="shadcn/ui" width="125" height="34"></picture>
+</p>
+
+<p align="center">
+  <sub><b>Mobile</b></sub><br>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/react-native-dark.svg"><img src="assets/stack/react-native-light.svg" alt="React Native" width="148" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/flutter-dark.svg"><img src="assets/stack/flutter-light.svg" alt="Flutter" width="109" height="34"></picture>
+</p>
+
+<p align="center">
+  <sub><b>Backend</b></sub><br>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/node-js-dark.svg"><img src="assets/stack/node-js-light.svg" alt="Node.js" width="109" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/nestjs-dark.svg"><img src="assets/stack/nestjs-light.svg" alt="NestJS" width="101" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/express-dark.svg"><img src="assets/stack/express-light.svg" alt="Express" width="109" height="34"></picture>
+</p>
+
+<p align="center">
+  <sub><b>Data &amp; cloud</b></sub><br>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/postgresql-dark.svg"><img src="assets/stack/postgresql-light.svg" alt="PostgreSQL" width="132" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/mongodb-dark.svg"><img src="assets/stack/mongodb-light.svg" alt="MongoDB" width="109" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/supabase-dark.svg"><img src="assets/stack/supabase-light.svg" alt="Supabase" width="117" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/vercel-dark.svg"><img src="assets/stack/vercel-light.svg" alt="Vercel" width="101" height="34"></picture>
+</p>
+
+<p align="center">
+  <sub><b>Tooling &amp; AI</b></sub><br>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/docker-dark.svg"><img src="assets/stack/docker-light.svg" alt="Docker" width="101" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/vitest-dark.svg"><img src="assets/stack/vitest-light.svg" alt="Vitest" width="101" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/claude-code-dark.svg"><img src="assets/stack/claude-code-light.svg" alt="Claude Code" width="140" height="34"></picture>
+</p>
+
+<sub>Logos from <a href="https://simpleicons.org">Simple Icons</a> (CC0); the Rust logo is the Rust Foundation's, CC BY-SA 4.0 (<a href="assets/stack/NOTICE.md">notice</a>). Names and logos belong to their owners.</sub>
+
+<br/>
+
 ## 🌌 `> ls ~/vtx`
 
 > 🧪 _The tools I use every day, so I built my own. Eleven desktop apps in Rust + Tauri, one element each, all built solo._
