@@ -8,3 +8,4 @@ to name the tools I use; every name and logo belongs to its owner.
   `rust-dark.svg` and `rust-light.svg` are adaptations of it (recoloured, set on a badge), shared under the same
   licence.
 - React Native's badge uses the React logo, which is React Native's own.
+- Java has no logo free to use, so its badge shows a plain cup drawn for it: no one's logo.

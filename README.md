@@ -37,6 +37,8 @@ const tanawat = {
   <sub><b>Languages</b></sub><br>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/typescript-dark.svg"><img src="assets/stack/typescript-light.svg" alt="TypeScript" width="132" height="34"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/rust-dark.svg"><img src="assets/stack/rust-light.svg" alt="Rust" width="86" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/java-dark.svg"><img src="assets/stack/java-light.svg" alt="Java" width="86" height="34"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/kotlin-dark.svg"><img src="assets/stack/kotlin-light.svg" alt="Kotlin" width="101" height="34"></picture>
 </p>
 
 <p align="center">
@@ -76,7 +78,7 @@ const tanawat = {
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/claude-code-dark.svg"><img src="assets/stack/claude-code-light.svg" alt="Claude Code" width="140" height="34"></picture>
 </p>
 
-<sub>Logos from <a href="https://simpleicons.org">Simple Icons</a> (CC0); the Rust logo is the Rust Foundation's, CC BY-SA 4.0 (<a href="assets/stack/NOTICE.md">notice</a>). Names and logos belong to their owners.</sub>
+<sub>Logos from <a href="https://simpleicons.org">Simple Icons</a> (CC0); the Rust logo is the Rust Foundation's, CC BY-SA 4.0 (<a href="assets/stack/NOTICE.md">notice</a>). Java has no logo free to use, so its badge shows a plain cup. Names and logos belong to their owners.</sub>
 
 <br/>
 
