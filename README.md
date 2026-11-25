@@ -114,7 +114,7 @@ const tanawat = {
 - 🔍 **They show their work.** Silva lists every git command it runs, and Aqua says why each item is safe to remove.
 - ↩️ **Mistakes come back.** Silva can undo any action, and Lapis keeps the SQL that reverses each write.
 
-> Most of the family is private while it grows. Lapis and Fulmen have public preview builds at [**vtx-lapis-release**](https://github.com/tanawat011/vtx-lapis-release) and [**vtx-fulmen-release**](https://github.com/tanawat011/vtx-fulmen-release), and free web tools plus the whole family live at [**vtxlabs.app**](https://vtxlabs.app/).
+> Most of the family is private while it grows. Lapis, Fulmen and Silva have public preview builds at [**vtx-lapis-release**](https://github.com/tanawat011/vtx-lapis-release), [**vtx-fulmen-release**](https://github.com/tanawat011/vtx-fulmen-release) and [**vtx-silva-release**](https://github.com/tanawat011/vtx-silva-release), and free web tools plus the whole family live at [**vtxlabs.app**](https://vtxlabs.app/).
 
 <br/>
 
