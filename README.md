@@ -110,7 +110,7 @@ const tanawat = {
   <img src="https://img.shields.io/badge/macOS_first-161b22?style=for-the-badge&logo=apple&logoColor=ffffff" alt="macOS first">
 </p>
 
-- 🔌 **No account. No cloud. No tracking.** Everything they keep stays on your own machine, and they go online only for what you connect them to or ask them to do. The one extra: four of them check for updates once a day, and you can turn that off.
+- 🔌 **No account. No cloud. No tracking.** Everything they keep stays on your own machine, and they go online only for what you connect them to or ask them to do.
 - 🔍 **They show their work.** Silva lists every git command it runs, and Aqua says why each item is safe to remove.
 - ↩️ **Mistakes come back.** Silva can undo any action, and Lapis keeps the SQL that reverses each write.
 
